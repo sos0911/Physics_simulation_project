@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PinBall_Project", "Box2D_Example\Box2D_Example.vcxproj", "{21390F40-AC2B-4162-91FA-EC11D8F91805}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Final_term_project", "Final_term_project\Final_term_project.vcxproj", "{21390F40-AC2B-4162-91FA-EC11D8F91805}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
